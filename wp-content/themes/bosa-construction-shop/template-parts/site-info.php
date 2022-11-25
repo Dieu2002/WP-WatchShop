@@ -10,7 +10,7 @@
 <div class="site-info">
 	<?php echo wp_kses_post( html_entity_decode( esc_html__( 'Copyright &copy; ' , 'bosa-construction-shop' ) ) );
 		echo esc_html( date( 'Y' ) );
-		printf( esc_html__( ' Bosa Construction Shop. Powered by', 'bosa-construction-shop' ) );
+		printf( esc_html__( '  Lâm Linh Diệu . Bee Store', 'bosa-construction-shop' ) );
 	?>
 	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'bosa-construction-shop' ) ); ?>" target="_blank">
 		<?php

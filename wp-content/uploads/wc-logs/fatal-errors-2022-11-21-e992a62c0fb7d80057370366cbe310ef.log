@@ -1,0 +1,2 @@
+2022-11-21T12:21:19+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 98304 bytes) in C:\xampp\htdocs\Final\wordpress\wp-content\plugins\elementskit-lite\core\build-widgets.php on line 42
+

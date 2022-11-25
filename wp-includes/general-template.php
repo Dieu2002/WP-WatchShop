@@ -27,7 +27,7 @@
 function get_header( $name = null, $args = array() ) {
 	/**
 	 * Fires before the header template file is loaded.
-	 *
+	 *Username or email address *
 	 * @since 2.1.0
 	 * @since 2.8.0 The `$name` parameter was added.
 	 * @since 5.5.0 The `$args` parameter was added.

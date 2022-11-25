@@ -1480,7 +1480,7 @@ switch ( $action ) {
 				}
 
 				$html_link = sprintf( '<a href="%s">%s</a>', esc_url( wp_lostpassword_url() ), __( 'Lost your password?' ) );
-
+				
 				/**
 				 * Filters the link that allows the user to reset the lost password.
 				 *
@@ -1494,7 +1494,7 @@ switch ( $action ) {
 			</p>
 			<?php
 		}
-
+	
 		$login_script  = 'function wp_attempt_focus() {';
 		$login_script .= 'setTimeout( function() {';
 		$login_script .= 'try {';

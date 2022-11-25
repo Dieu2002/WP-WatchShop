@@ -19,6 +19,12 @@ Bosa Construction Shop is distributed under the terms of the GNU General Public 
 Bosa Construction Shop is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 */
+.woocommerce #content table.cart img, .woocommerce table.cart img, .woocommerce-page #content table.cart img, .woocommerce-page table.cart img {
+  height: 120px;
+  width: 150px;
+}
+
+
 
 .elementor-18 .elementor-element.elementor-element-fa86b66 .elementor-element-e122c84 .elementor-element-67aa7fe .elementor-element-4b330b8 .product-category h3.woocommerce-loop-category__title {
   text-align: center;

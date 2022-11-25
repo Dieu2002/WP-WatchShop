@@ -1769,7 +1769,7 @@ class My_Account extends Base_Widget {
 	 *
 	 * Modify the permalink of the My Account Logout menu item. We add this so that we can add custom
 	 * parameters to the URL, which we can later access to log the user out and redirect back to the widget
-	 * page. Without this WooCommerce would have always just redirect back to the set My Account Page
+	 * page. Without this WooCommerce would have always just redirect back to the set Page
 	 * after log out.
 	 *
 	 * This is a callback function for the woocommerce_logout_default_redirect_url filter.

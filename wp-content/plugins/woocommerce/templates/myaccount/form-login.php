@@ -30,6 +30,7 @@ do_action( 'woocommerce_before_customer_login_form' ); ?>
 <?php endif; ?>
 
 		<h2><?php esc_html_e( 'Login', 'woocommerce' ); ?></h2>
+		<p>Do you have an account<a href="http://localhost/Final/wordpress/register">Signup here</a></p>
 
 		<form class="woocommerce-form woocommerce-form-login login" method="post">
 
